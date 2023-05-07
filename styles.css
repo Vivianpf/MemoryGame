@@ -1,0 +1,48 @@
+body {
+    background-color: lightcoral;
+}
+
+/* section {
+    border: 1px solid gray;
+} */
+
+#game-container {
+    border: 1px solid white;
+    margin: 0 auto;
+    max-width: 80%;
+    height: 36rem;
+    padding: 10px;
+    
+}
+
+#cards-container div {
+    padding: 10px;
+    border: 3px solid dimgrey;
+    border-radius: 5px;
+    margin: 10px;
+    width: 15%;
+    height: 150px;
+    display: inline-block;
+    background-color:lightslategrey;
+}
+
+/* #card {
+    padding: 10px;
+    border: 3px solid dimgrey;
+    border-radius: 5px;
+    margin: 10px;
+    width: 20%;
+    height: 150px;
+    display: inline-block;
+    background-color:lightslategrey;
+}
+
+#flipped-card {
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    width: 20%;
+    height: 150px;
+    display: none;
+} */
